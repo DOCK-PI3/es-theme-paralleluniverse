@@ -33,4 +33,32 @@
 	
 	</view>
 	
+			<feature supported="video">
+	
+		<view name="video">
+		
+<!-- 		<image name="thumbnail" extra="true">
+			<pos>0.5 0.521</pos>
+			<path>./_art/marquee.png</path>
+			<size>0.34 0.15</size>
+			<origin>0.7 0.03</origin>
+			<zIndex>78</zIndex>
+		</image> -->
+			<!-- Posicion y tamaño del video juego -->
+
+			<video name="md_video">
+				<maxSize>0.58 0.82</maxSize>
+				<origin>0 0</origin>
+				<pos>0.135 0.120</pos>
+				<delay>2.7</delay>
+				<showSnapshotNoVideo>true</showSnapshotNoVideo>
+				<showSnapshotDelay>true</showSnapshotDelay>
+				<zIndex>80</zIndex>
+				
+			</video>
+			
+		</view>
+		
+	</feature>
+	
 </theme>
