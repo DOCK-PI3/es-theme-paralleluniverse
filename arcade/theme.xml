@@ -31,6 +31,15 @@
 	<zIndex>90</zIndex>
 	</image>
 	
+		<rating name="md_rating">
+		<color>FFFFFF</color>
+		<pos>0.74 0.77</pos>
+		<size>0.255 0.068</size>
+		<filledPath>./../_art/full_b.png</filledPath>
+		<unfilledPath>./../_art/empty.png</unfilledPath>
+		<zIndex>90</zIndex>
+		</rating>
+	
 	</view>
 	
 			<feature supported="video">
@@ -50,9 +59,9 @@
 				<maxSize>0.58 0.82</maxSize>
 				<origin>0 0</origin>
 				<pos>0.135 0.120</pos>
-				<delay>2.7</delay>
+				<delay>0.0</delay>
 				<showSnapshotNoVideo>true</showSnapshotNoVideo>
-				<showSnapshotDelay>true</showSnapshotDelay>
+				<showSnapshotDelay>false</showSnapshotDelay>
 				<zIndex>80</zIndex>
 				
 			</video>

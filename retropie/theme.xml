@@ -26,8 +26,8 @@
     <path>./logo.png</path>
 	<color>FFFFFF</color>
 	<origin>0 0</origin>
-	<pos>0.01 0.01</pos>
-	<maxSize>.34 .18</maxSize>
+	<pos>0.08 0.01</pos>
+	<maxSize>.3 .14</maxSize>
 	<zIndex>90</zIndex>
 	</image>
 	
