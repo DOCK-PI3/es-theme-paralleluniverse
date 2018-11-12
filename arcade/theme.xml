@@ -46,13 +46,6 @@
 	
 		<view name="video">
 		
-<!-- 		<image name="thumbnail" extra="true">
-			<pos>0.5 0.521</pos>
-			<path>./_art/marquee.png</path>
-			<size>0.34 0.15</size>
-			<origin>0.7 0.03</origin>
-			<zIndex>78</zIndex>
-		</image> -->
 			<!-- Posicion y tamaño del video juego -->
 
 			<video name="md_video">

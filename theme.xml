@@ -198,7 +198,7 @@
 	<origin>0 0</origin>
 	<pos>0 0.17</pos>
 	<maxSize>0.8 0.68</maxSize>
-	<delay>0.3</delay>
+	<delay>0.0</delay>
 	<showSnapshotNoVideo>true</showSnapshotNoVideo>
 	<showSnapshotDelay>false</showSnapshotDelay>
 	<zIndex>65</zIndex>
