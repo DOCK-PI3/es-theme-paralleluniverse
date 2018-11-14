@@ -95,7 +95,7 @@
 	<pos>0.732 0.15</pos>
 	<size>0.245 0.51</size>
 	<fontSize>0.024</fontSize>
-	<lineSpacing>1</lineSpacing>
+	<lineSpacing>1.2</lineSpacing>
 	<zIndex>90</zIndex>
 </textlist>
 
