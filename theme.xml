@@ -83,7 +83,7 @@
 
 <textlist name="gamelist">
 	<selectorImagePath>./_art/selector.png</selectorImagePath>
-	<selectorColor>FFFFFF00</selectorColor>
+	<selectorColor>FFFFFF</selectorColor>
 	<selectedColor>8d6cab</selectedColor>
 <!-- 	<selectorImageTile>0</selectorImageTile> -->
 	<selectorHeight>0.045</selectorHeight>
