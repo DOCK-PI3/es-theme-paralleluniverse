@@ -86,12 +86,13 @@
 	<selectorColor>FFFFFF</selectorColor>
 	<selectedColor>8d6cab</selectedColor>
 <!-- 	<selectorImageTile>0</selectorImageTile> -->
-	<selectorHeight>0.042</selectorHeight>
+	<selectorHeight>0.038</selectorHeight>
 	<primaryColor>F0F0F0</primaryColor>
 	<secondaryColor>f4ee21</secondaryColor>
     <fontPath>./_art/menu.ttf</fontPath>	
 	<alignment>left</alignment>
-	<pos>0.721 0.15</pos>
+	<horizontalMargin>0.07</horizontalMargin>
+	<pos>0.74 0.15</pos>
 	<size>0.24 0.51</size>
 	<fontSize>0.024</fontSize>
 	<lineSpacing>1</lineSpacing>
