@@ -8,8 +8,9 @@
 
 			<!-- Custom Vertical System View -->
 			<image name="console" extra="true">
-				<maxSize>0.500 0.700</maxSize>
-				<pos>0.655 0.465</pos>
+				<maxSize>0.700 0.7</maxSize>
+				<size>0.6 0.6</size>
+				<pos>0.555 0.365</pos>
 			</image>
 
 			<carousel name="systemcarousel">
@@ -71,7 +72,7 @@
 
 </view>
 
-<view name="basic, detailed, video, grid">
+<view name="basic, detailed, video">
 
 <image name="frame" extra="true">
 	<color>FFFFFFFF</color>
@@ -188,12 +189,14 @@
 
 <image name="md_image">
 	<origin>0 0</origin>
-		<pos>0.05 0.09</pos>
-	<maxSize>1 1</maxSize>
+		<pos>0.06 0.2</pos>
+	<maxSize>0.68 0.65</maxSize>
+	<size>0.65 0.65</size>
 	<zIndex>64</zIndex>
 </image>
 
 </view>
+
 
 <view name="video">
 
@@ -209,7 +212,7 @@
 
 <image name="md_marquee">
 	<origin>0.5 0.5</origin>
-	<pos>0.855 0.04</pos>
+	<pos>0.855 0.075</pos>
 	<maxSize>0.565 0.15</maxSize>
 	<size>0.25 0.145</size>
 	<zIndex>90</zIndex>
