@@ -8,9 +8,9 @@
 
 			<!-- Custom Vertical System View -->
 			<image name="console" extra="true">
-				<maxSize>0.700 0.7</maxSize>
-				<size>0.6 0.6</size>
-				<pos>0.555 0.365</pos>
+				<maxSize>0.5 0.5</maxSize>
+				<size>0.42 0.42</size>
+				<pos>0.455 0.365</pos>
 			</image>
 
 			<carousel name="systemcarousel">
